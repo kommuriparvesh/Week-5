@@ -4,4 +4,4 @@
 
 
 #### Class Diagram for Iterator Design Pattern.
-<img src="https://github.com/kommuriparvesh/Week-5/blob/main/clsdia.png">
+<img src="https://github.com/kommuriparvesh/Week-5/blob/main/classdiagram.png">
