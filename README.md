@@ -1,7 +1,7 @@
-# WEEK-5 Assignment. 
+# WEEK-6 Assignment. 
 ### ID : L30064265
 ### NAME : KOMMURI PARVESH
 
 
-#### Class Diagram for State Design Pattern.
-<img src="https://github.com/kommuriparvesh/Week-5/blob/main/classdiagram.png">
+#### Class Diagram for Builder pattern
+<img src="https://github.com/kommuriparvesh/Week-6/blob/main/classdiagram.png">
